@@ -41,9 +41,18 @@ Another project that showcases my skills.
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** C, Java
-- **Tools:** VSCode, IntelliJ, Git, Makefile 
-- **Development Practices:** TDD, clean code, debugging
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-0769AD?style=for-the-badge&logo=make&logoColor=white)
+
+![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-brightgreen?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-Practices-blue?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-Skills-important?style=for-the-badge)
+
 
 <!---
 
